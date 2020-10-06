@@ -129,7 +129,7 @@ TODO: Write & Check!
 | 7     | D              | 61 to 70 points  |
 | 8     | C              | 71 to 80 points  |
 | 9     | B              | 81 to 90 points  |
-| 10    | A              | 91 to 100 points |
+| 1     | Sehr gut       | 91 to 100 points |
 
 ## Requirements
 
